@@ -15,4 +15,8 @@ public class Test01 {
 		System.out.println("enclosing_type.enclosing_method()");
 		return 1;
 	}
+	
+	void mn() {
+		System.out.println("Test01.mn()");
+	}
 }
