@@ -19,4 +19,8 @@ public class Test01 {
 	void mn() {
 		System.out.println("Test01.mn()--");
 	}
+	
+	void asd() {
+		System.out.println("Test01.asd()");
+	}
 }
